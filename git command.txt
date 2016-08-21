@@ -1,5 +1,7 @@
 git clone <links in repos> //клонирует с заданого репозитория в текущию папку
-git status узнает нужны ли комиты, сравнивает версии кода
-git add <name.ttt> добавляет файл в комит
+git status //узнает нужны ли комиты, сравнивает версии кода
+git add <name.ttt> //добавляет файл в комит
 git commit -a(какие файлы комитеть новые) -m(комит измений) "commit messeges"
-git push  push to orig repositori
+git push origin //push to orig repositori
+git branch -a  //show all branches in repositoria
+git branch <name brance> //create new branch
