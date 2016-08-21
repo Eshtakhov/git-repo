@@ -5,3 +5,4 @@ git commit -a(какие файлы комитеть новые) -m(комит измений) "commit messeges"
 git push origin //push to orig repositori
 git branch -a  //show all branches in repositoria
 git branch <name brance> //create new branch
+git checkout <name of branch> //change active branch
