@@ -3,3 +3,5 @@ git status узнает нужны ли комиты, сравнивает версии кода
 git add <name.ttt> добавляет файл в комит
 git commit -a(какие файлы комитеть новые) -m(комит измений) "commit messeges"
 git push  push to orig repositori
+git merge <name branch*> //take changes from branch*
+git branch -d <name of branch> //delete branch
