@@ -6,3 +6,6 @@ git push origin //push to orig repositori
 git branch -a  //show all branches in repositoria
 git branch <name brance> //create new branch
 git checkout <name of branch> //change active branch
+git push  //push to orig repositori
+git merge <name branch*> //take changes from branch*
+git branch -d <name of branch> //delete branch
